@@ -1,0 +1,23 @@
+{
+  "name": "ureka-shop",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/yyeonkim/ureka-shop#readme",
+  "bugs": {
+    "url": "https://github.com/yyeonkim/ureka-shop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyeonkim/ureka-shop.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
